@@ -6,3 +6,14 @@
 - User.github에서는 사용자 설정 변경가능
 - Organization.github에서는 리포지터리와 Organization 설정 변경가능
 - 기타는 각각의 리포지터리 설정만 가능
+
+권한이 문제
+안되면 직접 personal token생성해서 입력하는거로
+프로젝트 설정과 조직설정의 우선순위 등만 주의
+
+참고프로젝트
+- https://github.com/actions/hello-world-docker-action
+- https://github.com/actions/typescript-action
+- https://github.com/actions/hello-world-javascript-action
+- https://github.com/actions/javascript-action
+- https://github.com/actions/starter-workflows
