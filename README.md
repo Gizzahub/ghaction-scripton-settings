@@ -17,3 +17,10 @@
 - https://github.com/actions/hello-world-javascript-action
 - https://github.com/actions/javascript-action
 - https://github.com/actions/starter-workflows
+
+참고독s
+- https://docs.github.com/ko/actions/security-for-github-actions/security-guides/automatic-token-authentication
+- https://docs.github.com/en/rest/repos/repos?apiVersion=2022-11-28#update-a-repository
+
+env
+https://stackoverflow.com/questions/73955908/how-to-use-env-variable-as-default-value-for-input-in-github-actions
