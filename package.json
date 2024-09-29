@@ -4,13 +4,13 @@
   "version": "0.0.0",
   "author": "",
   "private": true,
-  "homepage": "https://github.com/actions/typescript-action",
+  "homepage": "https://github.com/Gizzahub/ghaction-scripton-settingsGizzahub/typescript-action",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/actions/typescript-action.git"
+    "url": "git+https://github.com/Gizzahub/ghaction-scripton-settingsactions/typescript-action.git"
   },
   "bugs": {
-    "url": "https://github.com/actions/typescript-action/issues"
+    "url": "https://forum.gizzahub.com"
   },
   "keywords": [
     "actions",
